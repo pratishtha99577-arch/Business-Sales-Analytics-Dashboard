@@ -67,7 +67,7 @@ Business_Sales_Analytics_Dashboard/
 ├── Business_Sales_Analytics_Dashboard.pbix
 ├── README.md
 └── requirements.txt
-```text
+```
 
 ## 🎯 Project Objective
 
