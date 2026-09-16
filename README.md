@@ -15,9 +15,8 @@ The Power BI dashboard provides an interactive view of:
 - Profit by Region
 - Top Products by Sales
 - Region and Category filters
-- 
-![Business Sales Analytics Dashboard]
-(visualizations/dashboard.png)
+
+![Business Sales Analytics Dashboard](visualizations/dashboard.png)
 
 ## 🛠️ Technologies Used
 
