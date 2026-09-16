@@ -66,7 +66,8 @@ Business_Sales_Analytics_Dashboard/
 ├── .gitignore
 ├── Business_Sales_Analytics_Dashboard.pbix
 ├── README.md
-└── requirements.txt```
+└── requirements.txt
+```text
 
 ## 🎯 Project Objective
 
